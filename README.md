@@ -11,3 +11,7 @@ The CV-CNN folder stores the implementation process of CV-CNN.
 
 Reference: This CV-CNN code is created based on the DeepLearnToolbox, which is a real CNN open source toolbox.     
 https://github.com/rasmusbergpalm/DeepLearnToolbox    
+
+Datatsets:
+The datasets adopted in our paper "Complex-Valued Convolutional Neural Network and Its Application in PoSAR Image Classification" can be downloaded by the website "https://earth.esa.int/web/polsarpro/data-sources/sample-datasets".
+Meanwhile, the corresponding ground truth has been uploaded in this project.
