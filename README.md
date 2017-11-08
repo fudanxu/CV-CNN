@@ -16,6 +16,6 @@ Datatsets:
 The datasets adopted in our paper "Complex-Valued Convolutional Neural Network and Its Application in PoSAR Image Classification" can be downloaded by the website "https://earth.esa.int/web/polsarpro/data-sources/sample-datasets".
 Meanwhile, the corresponding ground truth has been uploaded in this project.
 
-Remark: The ground truth of Flevoland-1989 containing 14 classes is Label_Flevoland_14cls.mat
-        The ground truth of Flevoland-1991 containing 15 classes is Label_Flevoland_15cls.mat
-        The ground truth of Oberpfaffenhofen, Germany is Label_Germany.mat
+Remark: The ground truth of Flevoland-1989 containing 14 classes is Label_Flevoland_14cls.mat     
+        The ground truth of Flevoland-1991 containing 15 classes is Label_Flevoland_15cls.mat     
+        The ground truth of Oberpfaffenhofen, Germany is Label_Germany.mat
