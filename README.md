@@ -22,5 +22,7 @@ Remark: The ground truth of Flevoland-1989 containing 14 classes is Label_Flevol
     
     
 Updata: The input T matrix of the three datasets has been upload in the following Baiduyun link.
+
         Sampling data can be obtained at a certain sampling rate and divided into training set and validation set
+        
         链接: https://pan.baidu.com/s/1GpA8f37hochOuPMWmZOkmQ 密码: 6qhk
